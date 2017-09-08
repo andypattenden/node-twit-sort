@@ -1,0 +1,27 @@
+{
+  "name": "twit-sort",
+  "version": "1.0.0-alpha",
+  "description": "A Node utility to sort twitter users you follow into groups",
+  "main": "twit-sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Pattenden <andy@andypattenden.co.uk> (http://www.andypattenden.co.uk)",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^3.2.3",
+    "json2csv": "^3.11.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andypattenden/node-twit-sort.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "bugs": {
+    "url": "https://github.com/andypattenden/node-twit-sort/issues"
+  },
+  "homepage": "https://github.com/andypattenden/node-twit-sort#readme"
+}
